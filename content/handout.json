@@ -1,0 +1,542 @@
+{
+ "titel": "De Olympische Goden",
+ "toelichting": "Toetsstof, letterlijk van het handout. Bron van waarheid voor alle vragen. Romeinse namen worden niet getoetst.",
+ "goden": [
+  {
+   "id": "zeus",
+   "naam": "Zeus",
+   "godin": false,
+   "blok": 1,
+   "items": [
+    {
+     "code": "zeus.domein.oppergod",
+     "soort": "domein",
+     "woord": "oppergod"
+    },
+    {
+     "code": "zeus.domein.weer",
+     "soort": "domein",
+     "woord": "weer"
+    },
+    {
+     "code": "zeus.domein.beschermer-van-recht-en-orde",
+     "soort": "domein",
+     "woord": "beschermer van recht en orde"
+    },
+    {
+     "code": "zeus.attribuut.bliksem",
+     "soort": "attribuut",
+     "woord": "bliksem",
+     "beeld": "img/attributen/zeus.attribuut.bliksem.webp"
+    },
+    {
+     "code": "zeus.attribuut.troon",
+     "soort": "attribuut",
+     "woord": "troon",
+     "beeld": "img/attributen/zeus.attribuut.troon.webp"
+    },
+    {
+     "code": "zeus.dier.adelaar",
+     "soort": "dier",
+     "woord": "adelaar",
+     "beeld": "img/dieren/zeus.dier.adelaar.webp"
+    },
+    {
+     "code": "zeus.dier.ram",
+     "soort": "dier",
+     "woord": "ram",
+     "beeld": "img/dieren/zeus.dier.ram.webp"
+    }
+   ],
+   "beeld": "img/goden/zeus.god.webp",
+   "portret": "img/portretten/zeus.webp"
+  },
+  {
+   "id": "poseidon",
+   "naam": "Poseidon",
+   "godin": false,
+   "blok": 1,
+   "items": [
+    {
+     "code": "poseidon.domein.zee",
+     "soort": "domein",
+     "woord": "zee"
+    },
+    {
+     "code": "poseidon.domein.aardbevingen",
+     "soort": "domein",
+     "woord": "aardbevingen"
+    },
+    {
+     "code": "poseidon.attribuut.drietand",
+     "soort": "attribuut",
+     "woord": "drietand",
+     "beeld": "img/attributen/poseidon.attribuut.drietand.webp"
+    },
+    {
+     "code": "poseidon.dier.paard",
+     "soort": "dier",
+     "woord": "paard",
+     "beeld": "img/dieren/poseidon.dier.paard.webp"
+    },
+    {
+     "code": "poseidon.dier.stier",
+     "soort": "dier",
+     "woord": "stier",
+     "beeld": "img/dieren/poseidon.dier.stier.webp"
+    }
+   ],
+   "beeld": "img/goden/poseidon.god.webp",
+   "portret": "img/portretten/poseidon.webp"
+  },
+  {
+   "id": "hades",
+   "naam": "Hades",
+   "godin": false,
+   "blok": 1,
+   "items": [
+    {
+     "code": "hades.domein.onderwereld",
+     "soort": "domein",
+     "woord": "onderwereld"
+    },
+    {
+     "code": "hades.attribuut.hoorn-des-overvloeds",
+     "soort": "attribuut",
+     "woord": "hoorn des overvloeds",
+     "beeld": "img/attributen/hades.attribuut.hoorn-des-overvloeds.webp"
+    },
+    {
+     "code": "hades.dier.driekoppige-hond",
+     "soort": "dier",
+     "woord": "driekoppige hond",
+     "beeld": "img/dieren/hades.dier.driekoppige-hond.webp"
+    }
+   ],
+   "beeld": "img/goden/hades.god.webp",
+   "portret": "img/portretten/hades.webp"
+  },
+  {
+   "id": "hera",
+   "naam": "Hera",
+   "godin": true,
+   "blok": 2,
+   "items": [
+    {
+     "code": "hera.domein.het-huwelijk",
+     "soort": "domein",
+     "woord": "het huwelijk"
+    },
+    {
+     "code": "hera.attribuut.staf",
+     "soort": "attribuut",
+     "woord": "staf"
+    },
+    {
+     "code": "hera.dier.pauw",
+     "soort": "dier",
+     "woord": "pauw"
+    }
+   ]
+  },
+  {
+   "id": "demeter",
+   "naam": "Demeter",
+   "godin": true,
+   "blok": 2,
+   "items": [
+    {
+     "code": "demeter.domein.landbouw",
+     "soort": "domein",
+     "woord": "landbouw"
+    },
+    {
+     "code": "demeter.domein.oogst",
+     "soort": "domein",
+     "woord": "oogst"
+    },
+    {
+     "code": "demeter.domein.graan",
+     "soort": "domein",
+     "woord": "graan"
+    },
+    {
+     "code": "demeter.attribuut.korenaar",
+     "soort": "attribuut",
+     "woord": "korenaar"
+    },
+    {
+     "code": "demeter.attribuut.dikke-buik",
+     "soort": "attribuut",
+     "woord": "dikke buik"
+    },
+    {
+     "code": "demeter.attribuut.fakkel",
+     "soort": "attribuut",
+     "woord": "fakkel"
+    },
+    {
+     "code": "demeter.dier.slang",
+     "soort": "dier",
+     "woord": "slang"
+    }
+   ]
+  },
+  {
+   "id": "hestia",
+   "naam": "Hestia",
+   "godin": true,
+   "blok": 2,
+   "items": [
+    {
+     "code": "hestia.domein.haardvuur",
+     "soort": "domein",
+     "woord": "haardvuur"
+    },
+    {
+     "code": "hestia.attribuut.vuur",
+     "soort": "attribuut",
+     "woord": "vuur"
+    }
+   ]
+  },
+  {
+   "id": "aphrodite",
+   "naam": "Aphrodite",
+   "godin": true,
+   "blok": 3,
+   "items": [
+    {
+     "code": "aphrodite.domein.liefde",
+     "soort": "domein",
+     "woord": "liefde"
+    },
+    {
+     "code": "aphrodite.domein.schoonheid",
+     "soort": "domein",
+     "woord": "schoonheid"
+    },
+    {
+     "code": "aphrodite.attribuut.eros-amor-cupido",
+     "soort": "attribuut",
+     "woord": "Eros/Amor/Cupido",
+     "ook_goed": [
+      "Eros",
+      "Amor",
+      "Cupido"
+     ]
+    },
+    {
+     "code": "aphrodite.attribuut.naaktheid",
+     "soort": "attribuut",
+     "woord": "naaktheid"
+    },
+    {
+     "code": "aphrodite.attribuut.spiegel",
+     "soort": "attribuut",
+     "woord": "spiegel"
+    },
+    {
+     "code": "aphrodite.attribuut.rozen",
+     "soort": "attribuut",
+     "woord": "rozen"
+    },
+    {
+     "code": "aphrodite.dier.duif",
+     "soort": "dier",
+     "woord": "duif"
+    },
+    {
+     "code": "aphrodite.dier.zwaan",
+     "soort": "dier",
+     "woord": "zwaan"
+    }
+   ]
+  },
+  {
+   "id": "ares",
+   "naam": "Ares",
+   "godin": false,
+   "blok": 3,
+   "items": [
+    {
+     "code": "ares.domein.oorlog",
+     "soort": "domein",
+     "woord": "oorlog"
+    },
+    {
+     "code": "ares.attribuut.wapens",
+     "soort": "attribuut",
+     "woord": "wapens"
+    }
+   ]
+  },
+  {
+   "id": "hephaestus",
+   "naam": "Hephaistos",
+   "godin": false,
+   "blok": 3,
+   "items": [
+    {
+     "code": "hephaestus.domein.smeden-en-smederij",
+     "soort": "domein",
+     "woord": "smeden en smederij"
+    },
+    {
+     "code": "hephaestus.attribuut.gereedschap",
+     "soort": "attribuut",
+     "woord": "gereedschap"
+    },
+    {
+     "code": "hephaestus.attribuut.aambeeld",
+     "soort": "attribuut",
+     "woord": "aambeeld"
+    }
+   ]
+  },
+  {
+   "id": "artemis",
+   "naam": "Artemis",
+   "godin": true,
+   "blok": 4,
+   "items": [
+    {
+     "code": "artemis.domein.jacht",
+     "soort": "domein",
+     "woord": "jacht"
+    },
+    {
+     "code": "artemis.attribuut.pijl-en-boog",
+     "soort": "attribuut",
+     "woord": "pijl en boog"
+    },
+    {
+     "code": "artemis.dier.hert",
+     "soort": "dier",
+     "woord": "hert"
+    },
+    {
+     "code": "artemis.dier.leeuw",
+     "soort": "dier",
+     "woord": "leeuw"
+    },
+    {
+     "code": "artemis.dier.beer",
+     "soort": "dier",
+     "woord": "beer"
+    }
+   ]
+  },
+  {
+   "id": "apollo",
+   "naam": "Apollo",
+   "godin": false,
+   "blok": 4,
+   "items": [
+    {
+     "code": "apollo.domein.zon",
+     "soort": "domein",
+     "woord": "zon"
+    },
+    {
+     "code": "apollo.domein.muziek",
+     "soort": "domein",
+     "woord": "muziek"
+    },
+    {
+     "code": "apollo.domein.kunst",
+     "soort": "domein",
+     "woord": "kunst"
+    },
+    {
+     "code": "apollo.domein.geneeskunst",
+     "soort": "domein",
+     "woord": "geneeskunst"
+    },
+    {
+     "code": "apollo.domein.voorspellingskunst",
+     "soort": "domein",
+     "woord": "voorspellingskunst"
+    },
+    {
+     "code": "apollo.attribuut.zonnewagen",
+     "soort": "attribuut",
+     "woord": "zonnewagen"
+    },
+    {
+     "code": "apollo.attribuut.pijl-en-boog",
+     "soort": "attribuut",
+     "woord": "pijl en boog"
+    },
+    {
+     "code": "apollo.attribuut.lier",
+     "soort": "attribuut",
+     "woord": "lier"
+    },
+    {
+     "code": "apollo.attribuut.citer",
+     "soort": "attribuut",
+     "woord": "citer"
+    },
+    {
+     "code": "apollo.attribuut.laurierkrans",
+     "soort": "attribuut",
+     "woord": "laurierkrans"
+    }
+   ]
+  },
+  {
+   "id": "hermes",
+   "naam": "Hermes",
+   "godin": false,
+   "blok": 4,
+   "items": [
+    {
+     "code": "hermes.domein.handel",
+     "soort": "domein",
+     "woord": "handel"
+    },
+    {
+     "code": "hermes.domein.dieven",
+     "soort": "domein",
+     "woord": "dieven"
+    },
+    {
+     "code": "hermes.domein.bode-van-de-goden",
+     "soort": "domein",
+     "woord": "bode van de goden"
+    },
+    {
+     "code": "hermes.domein.begeleider-van-de-doden",
+     "soort": "domein",
+     "woord": "begeleider van de doden"
+    },
+    {
+     "code": "hermes.attribuut.staf",
+     "soort": "attribuut",
+     "woord": "staf"
+    },
+    {
+     "code": "hermes.attribuut.hoed",
+     "soort": "attribuut",
+     "woord": "hoed"
+    },
+    {
+     "code": "hermes.attribuut.sandalen-met-vleugels",
+     "soort": "attribuut",
+     "woord": "sandalen met vleugels"
+    }
+   ],
+   "beeld": "img/goden/hermes.god.webp",
+   "portret": "img/portretten/hermes.webp"
+  },
+  {
+   "id": "athena",
+   "naam": "Pallas Athene",
+   "godin": true,
+   "blok": 5,
+   "items": [
+    {
+     "code": "athena.domein.wijsheid",
+     "soort": "domein",
+     "woord": "wijsheid"
+    },
+    {
+     "code": "athena.domein.oorlog",
+     "soort": "domein",
+     "woord": "oorlog"
+    },
+    {
+     "code": "athena.domein.beschermster-van-helden-kunstenaars-en-handwerkslieden",
+     "soort": "domein",
+     "woord": "beschermster van helden, kunstenaars en handwerkslieden"
+    },
+    {
+     "code": "athena.attribuut.helm",
+     "soort": "attribuut",
+     "woord": "helm"
+    },
+    {
+     "code": "athena.attribuut.lans",
+     "soort": "attribuut",
+     "woord": "lans"
+    },
+    {
+     "code": "athena.attribuut.schild",
+     "soort": "attribuut",
+     "woord": "schild"
+    },
+    {
+     "code": "athena.dier.uil",
+     "soort": "dier",
+     "woord": "uil"
+    },
+    {
+     "code": "athena.dier.slang",
+     "soort": "dier",
+     "woord": "slang"
+    }
+   ]
+  },
+  {
+   "id": "dionysus",
+   "naam": "Dionysus",
+   "godin": false,
+   "blok": 5,
+   "items": [
+    {
+     "code": "dionysus.domein.wijn",
+     "soort": "domein",
+     "woord": "wijn"
+    },
+    {
+     "code": "dionysus.domein.toneel",
+     "soort": "domein",
+     "woord": "toneel"
+    },
+    {
+     "code": "dionysus.attribuut.wijnbeker",
+     "soort": "attribuut",
+     "woord": "wijnbeker"
+    },
+    {
+     "code": "dionysus.attribuut.druiven",
+     "soort": "attribuut",
+     "woord": "druiven"
+    },
+    {
+     "code": "dionysus.attribuut.krans-van-wijnbladeren",
+     "soort": "attribuut",
+     "woord": "krans van wijnbladeren"
+    },
+    {
+     "code": "dionysus.attribuut.thyrsosstaf",
+     "soort": "attribuut",
+     "woord": "thyrsosstaf"
+    },
+    {
+     "code": "dionysus.attribuut.saters",
+     "soort": "attribuut",
+     "woord": "saters"
+    },
+    {
+     "code": "dionysus.attribuut.maenaden-bacchanten",
+     "soort": "attribuut",
+     "woord": "maenaden/bacchanten",
+     "ook_goed": [
+      "maenaden",
+      "bacchanten",
+      "maenade",
+      "bacchant",
+      "bacchante"
+     ]
+    },
+    {
+     "code": "dionysus.dier.panter",
+     "soort": "dier",
+     "woord": "panter"
+    }
+   ]
+  }
+ ]
+}

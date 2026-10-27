@@ -1,0 +1,148 @@
+{
+ "toelichting": "Blokken en vaste plekken op de Olympus. x en y zijn procenten van de breedte en hoogte van img/olympus.webp (midden van de plek). Plekken van blok 2-5 zijn voorlopig. kleur = de vaste kleur van de god (stijlblad).",
+ "blokken": [
+  {
+   "nr": 1,
+   "naam": "De drie broers",
+   "goden": [
+    "zeus",
+    "poseidon",
+    "hades"
+   ],
+   "waarom": "Ze verdelen samen de wereld: hemel, zee en onderwereld.",
+   "doelen": [
+    "Ik kan bij Zeus, Poseidon en Hades zeggen waarvan ze de god zijn.",
+    "Ik kan hun attributen noemen, en bij elk attribuut de god.",
+    "Ik kan hun dieren noemen, en bij elk dier de god.",
+    "Ik kan met een kort verhaal uitleggen waarom een god een attribuut of dier heeft."
+   ],
+   "mythen": [
+    "mythen/01-strijd-om-de-wereld.md",
+    "mythen/02-adelaar-en-ram.md",
+    "mythen/03-poseidons-woede.md",
+    "mythen/04-rijkdom-onder-de-grond.md"
+   ]
+  },
+  {
+   "nr": 2,
+   "naam": "De drie zussen",
+   "goden": [
+    "hera",
+    "demeter",
+    "hestia"
+   ]
+  },
+  {
+   "nr": 3,
+   "naam": "Vuur, liefde en oorlog",
+   "goden": [
+    "hephaestus",
+    "aphrodite",
+    "ares"
+   ]
+  },
+  {
+   "nr": 4,
+   "naam": "De tweeling en de dief",
+   "goden": [
+    "artemis",
+    "apollo",
+    "hermes"
+   ]
+  },
+  {
+   "nr": 5,
+   "naam": "Wijsheid en wijn",
+   "goden": [
+    "athena",
+    "dionysus"
+   ]
+  }
+ ],
+ "plekken": {
+  "zeus": {
+   "x": 56,
+   "y": 27,
+   "plek": "de grote tempel op de top",
+   "kleur": "#2F5BD3"
+  },
+  "poseidon": {
+   "x": 61,
+   "y": 79,
+   "plek": "de watervallen aan de voet",
+   "kleur": "#13A39B"
+  },
+  "hades": {
+   "x": 75.5,
+   "y": 50,
+   "plek": "de donkere tunnel de berg in",
+   "kleur": "#3B2F5C"
+  },
+  "hera": {
+   "x": 43,
+   "y": 23,
+   "plek": "de tempel naast die van Zeus",
+   "kleur": "#7B3FB5"
+  },
+  "demeter": {
+   "x": 20,
+   "y": 80,
+   "plek": "de groene tuin",
+   "kleur": "#9BBF30"
+  },
+  "hestia": {
+   "x": 38.5,
+   "y": 62,
+   "plek": "de gouden cirkel midden op het plein",
+   "kleur": "#F28C28"
+  },
+  "aphrodite": {
+   "x": 25.5,
+   "y": 46,
+   "plek": "het gouden koepeltje links",
+   "kleur": "#F27BB5"
+  },
+  "ares": {
+   "x": 8,
+   "y": 60,
+   "plek": "de muur aan de rand",
+   "kleur": "#D62828"
+  },
+  "hephaestus": {
+   "x": 33,
+   "y": 88,
+   "plek": "de rotsen onder de berg",
+   "kleur": "#8B5A2B"
+  },
+  "artemis": {
+   "x": 88,
+   "y": 44,
+   "plek": "de bomen bij de waterval",
+   "kleur": "#2E8B57"
+  },
+  "apollo": {
+   "x": 94,
+   "y": 61,
+   "plek": "het gouden koepeltje rechts",
+   "kleur": "#FFC928"
+  },
+  "athena": {
+   "x": 84.5,
+   "y": 33,
+   "plek": "de tempel rechts",
+   "kleur": "#A7B1BD"
+  },
+  "hermes": {
+   "x": 84,
+   "y": 60,
+   "plek": "de brug",
+   "kleur": "#5EC8F2"
+  },
+  "dionysus": {
+   "x": 7,
+   "y": 36,
+   "plek": "het tempeltje op de verre berg",
+   "kleur": "#8E1F4F"
+  }
+ }
+}
